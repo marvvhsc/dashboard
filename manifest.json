@@ -1,14 +1,19 @@
 {
-  "name": "My Money Tracker",
-  "short_name": "Money",
-  "start_url": "index.html",
+  "name": "Dashboard",
+  "short_name": "Dashboard",
+  "start_url": "dashboard.html",
   "display": "standalone",
-  "background_color": "#f4f4f9",
-  "theme_color": "#2ecc71",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
   "icons": [
     {
-      "src": "https://png.pngtree.com/png-vector/20230302/ourmid/pngtree-dashboard-line-icon-vector-png-image_6626604.png",
-      "sizes": "360x360",
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
